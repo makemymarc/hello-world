@@ -5,4 +5,4 @@ This is where I'm testing creating a new branch. After this, I'll do a pull requ
 
 How about we edit some more?
 
-Make another edit
+Interesting note, it doesn't seem that commits can be easily removed after being posted. If you want to change them, the easy way would be to make a change to the content of the previous commit.
